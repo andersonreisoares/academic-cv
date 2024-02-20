@@ -18,11 +18,13 @@ role: Senior data scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Cognizant
+    url: https://www.cognizant.com
+  - name: Bayer Cropscience
+    url: https://www.bayer.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Anderson Soares is a Remote Sensing Data Scientist at Cognizant/Bayer Cropscience. My research interests include remote sensing, geospatial analysis and time series analysis.
 
 # Interests to show in About widget
 interests:
@@ -39,7 +41,7 @@ education:
       institution: Brazilian Institute for Space Research
       year: 2019
     - course: Master in Geodetic Sciences and Geoinformation Technology
-      institution: FEDERAL UNIVERSITY OF PERNAMBUCO
+      institution: Federal University of Pernambuco
       year: 2015
     - course: BSc in Artificial Intelligence
       institution: Federal Institute for Education Science and Technology of Paraíba
@@ -118,4 +120,10 @@ highlight_name: true
 ---
 
 Anderson Soares is a Remote Sensing Data Scientist at Cognizant/Bayer Cropscience. His research interests include remote sensing, geospatial analysis and time series analysis. He is currently a technical lead in Bayer Cropsicence.
+
+Hi, I`m a Remote Sensing Data Scientist with a Master of Science degree in Geodetic Sciences and Geoinformation Technology (UFPE, 2015) and PhD in Remote Sensing (INPE, 2019).
+
+I have experience with remote sensing vegetation analysis using optical remote sensing datasets like, LANDSAT, Sensintel, Planet, CBERS and Venus products. Currently, I'm focused on spatio temporal analysis using such datasets to extract and deliver insights for agronomic practices. Moreover, I have experience with spatial analysis and automation with Python using geopandas, pandas, gdal, rasterio, pysal.
+
+I`m curious and study many topics, including AI (Artificial Intelligence), Python, Google Earth Engine, Geospatial data automation, Earth observation Big Data, Time Series Analysis and Radiometric and Atmospheric corrections.
 {style="text-align: justify;"}
