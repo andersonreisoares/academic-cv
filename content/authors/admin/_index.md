@@ -20,11 +20,11 @@ role: Senior data scientist
 organizations:
   - name: Cognizant
     url: https://www.cognizant.com
-  - name: Bayer Cropscience
+  - name: Bayer Crop Science
     url: https://www.bayer.com
 
 # Short bio (displayed in user profile at end of posts)
-bio: Anderson Soares is a Remote Sensing Data Scientist at Cognizant/Bayer Cropscience. My research interests include remote sensing, geospatial analysis and time series analysis.
+bio: Anderson Soares is a Remote Sensing Data Scientist at Cognizant/Bayer Crop Science. My research interests include remote sensing, geospatial analysis and time series analysis.
 
 # Interests to show in About widget
 interests:
@@ -43,7 +43,7 @@ education:
     - course: Master in Geodetic Sciences and Geoinformation Technology
       institution: Federal University of Pernambuco
       year: 2015
-    - course: BSc in Artificial Intelligence
+    - course: Advanced Course in Geoprocessing
       institution: Federal Institute for Education Science and Technology of Paraíba
       year: 2012
 
@@ -77,7 +77,8 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: Biking
-        description: 40%
+        description: ''
+        percent: 80
         icon: biking
         icon_pack: fas
       - name: Photography
@@ -88,7 +89,7 @@ skills:
       - name: Movies
         description: ''
         percent: 100
-        icon: camera-retro
+        icon: camera-movie
         icon_pack: fas
 
 # Social/Academic Networking
@@ -119,7 +120,7 @@ social:
 highlight_name: true
 ---
 
-Anderson Soares is a Remote Sensing Data Scientist at Cognizant/Bayer Cropscience. His research interests include remote sensing, geospatial analysis and time series analysis. He is currently a technical lead in Bayer Cropsicence.
+Anderson Soares is a Remote Sensing Data Scientist at Cognizant/Bayer Crop Science. His research interests include remote sensing, geospatial analysis and time series analysis. He is currently a technical lead in Bayer Crop Sicence.
 
 Hi, I`m a Remote Sensing Data Scientist with a Master of Science degree in Geodetic Sciences and Geoinformation Technology (UFPE, 2015) and PhD in Remote Sensing (INPE, 2019).
 
