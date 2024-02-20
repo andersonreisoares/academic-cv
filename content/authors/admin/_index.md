@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Senior data scientist
+role:  PhD | Senior Geospatial data scientist | Earth Monitoring | Spatiotemporal Analysis | Python
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -99,7 +99,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:andersonreis.geo@gmail.com'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=TgT5sYAAAAAJ&hl
@@ -119,7 +119,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hi, I`m a Remote Sensing Data Scientist with a Master of Science degree in Geodetic Sciences and Geoinformation Technology (UFPE, 2015) and PhD in Remote Sensing (INPE, 2019).
+Hi, I`m a Senior Geospatial Data Scientist with a Master of Science degree in Geodetic Sciences and Geoinformation Technology (UFPE, 2015) and PhD in Remote Sensing (INPE, 2019).
 
 I have experience with remote sensing vegetation analysis using optical remote sensing systems like, LANDSAT, Sentinel, Planet, CBERS and Ven&mu;s products. Currently, I'm focused on spatio temporal analysis using such datasets to extract and deliver insights for agronomic practices. Moreover, I have experience with spatial analysis and automation with Python using geopandas, pandas, gdal, rasterio, pysal.
 
