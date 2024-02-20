@@ -60,7 +60,7 @@ skills:
       - name: Data Science
         description: ''
         percent: 90
-        icon: chart-line
+        icon: magnifying-glass-chart
         icon_pack: fas
       - name: SQL
         description: ''
@@ -70,7 +70,7 @@ skills:
       - name: Time Series Analysis
         description: ''
         percent: 60
-        icon: database
+        icon: arrow-trend-up
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
@@ -89,7 +89,7 @@ skills:
       - name: Movies
         description: ''
         percent: 100
-        icon: camera-movie
+        icon: film
         icon_pack: fas
 
 # Social/Academic Networking
