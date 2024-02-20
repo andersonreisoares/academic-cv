@@ -119,9 +119,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Anderson Soares is a Remote Sensing Data Scientist at Cognizant/Bayer Crop Science. His research interests include remote sensing, geospatial analysis and time series analysis. He is currently a technical lead in Bayer Crop Sicence.
-
 Hi, I`m a Remote Sensing Data Scientist with a Master of Science degree in Geodetic Sciences and Geoinformation Technology (UFPE, 2015) and PhD in Remote Sensing (INPE, 2019).
 
 I have experience with remote sensing vegetation analysis using optical remote sensing datasets like, LANDSAT, Sensintel, Planet, CBERS and Venus products. Currently, I'm focused on spatio temporal analysis using such datasets to extract and deliver insights for agronomic practices. Moreover, I have experience with spatial analysis and automation with Python using geopandas, pandas, gdal, rasterio, pysal.
