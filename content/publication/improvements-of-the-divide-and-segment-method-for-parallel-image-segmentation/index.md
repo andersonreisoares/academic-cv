@@ -4,10 +4,6 @@ authors:
 - Anderson Reis Soares
 - Thales Sehn Körting
 - Leila Maria Garcia Fonseca
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-- "Equal contribution"
 date: "2018-09-05T00:00:00Z"
 doi: "http://dx.doi.org/10.14393/rbcv68n6-44486"
 

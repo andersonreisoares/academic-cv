@@ -31,10 +31,6 @@ tags:
 - Time series
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: http://dx.doi.org/10.1109/TGRS.2020.3033266
 ---
 
 {{% callout note %}}
