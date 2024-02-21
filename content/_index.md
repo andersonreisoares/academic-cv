@@ -154,9 +154,7 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle:
-      #text: |-
-        If you want to get in touch, send an email or use one of the resources indicated in this page.
+      subtitle: If you want to get in touch, send an email or use one of the resources indicated in this page.
       # Contact (add or remove contact options as necessary)
       email: andersonreis.geo@gmail.com
       address:
