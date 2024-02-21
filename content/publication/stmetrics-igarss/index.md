@@ -41,9 +41,3 @@ tags:
 featured: false
 
 url_code: 'https://github.com/brazil-data-cube/stmetrics'
-
----
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
