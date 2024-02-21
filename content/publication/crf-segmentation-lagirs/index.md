@@ -32,3 +32,4 @@ tags:
 
 # Display this page in the Featured widget?
 featured: false
+---
