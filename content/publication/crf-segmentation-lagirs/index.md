@@ -31,7 +31,7 @@ tags:
 - Image segmentation
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 ---
 {{% callout note %}}
