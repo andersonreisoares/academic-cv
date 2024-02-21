@@ -17,11 +17,11 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: 'Anderson Reis Soares'
+    org_name: ''
     description: 'Anderson Reis Soares personal CV on github. '
     twitter: 'GetResearchDev'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-YKN6MT2128'
     baidu_tongji: ''
     google_tag_manager: ''
     microsoft_clarity: ''
