@@ -119,9 +119,15 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Hi, I`m a Senior Geospatial Data Scientist with a Master of Science degree in Geodetic Sciences and Geoinformation Technology (UFPE, 2015) and PhD in Remote Sensing (INPE, 2019).
+Hi! I am Dr. Anderson Soares, a senior geospatial data scientist with extensive experience in remote sensing with focus in image processing. I hold a Master of Science in Geodetic Sciences and Geoinformatics (UFPE, 2015) and a PhD in Remote Sensing (INPE, 2019).
 
-I have experience with remote sensing vegetation analysis using optical remote sensing systems like, LANDSAT, Sentinel, Planet, CBERS and Ven&mu;s products. Currently, I'm focused on spatio temporal analysis using such datasets to extract and deliver insights for agronomic practices. Moreover, I have experience with spatial analysis and automation with Python using geopandas, pandas, gdal, rasterio, pysal.
+I have experience in using optical remote sensing data such as LANDSAT, Sentinel, Planet, CBERS, and Ven&mu;s to extract valuable insights for agricultural practices. My expertise encompasses:
 
-I`m curious and study many topics, including AI (Artificial Intelligence), Python, Google Earth Engine, Geospatial data automation, Earth observation Big Data, Time Series Analysis and Radiometric and Atmospheric corrections.
+<ul>
+  <li>Spatiotemporal analysis of remote sensing data for vegetation studies.</li>
+  <li>Development of predictive models for mapping and monitoring vegetation health.</li>
+  <li>Automation of spatial analysis processes using tools such as Python, geopandas, pandas, gdal, rasterio, and pysal.</li>
+</ul>
+
+I am a highly motivated professional with a thirst for knowledge. Currently, I focus on exploring new technologies such as spatiotemporal analysis, Artificial Intelligence (AI), geospatial Big Data, time series analysis, and radiometric and atmospheric corrections.
 {style="text-align: justify;"}
