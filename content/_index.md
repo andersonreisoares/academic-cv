@@ -140,7 +140,8 @@ sections:
   #   design:
   #     columns: '2'
   #     view: card
-  - block: collection
+  - block: publication
+    id: publication
     content:
       title: Recent Publications
       filters:
